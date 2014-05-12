@@ -1,0 +1,28 @@
+{
+  "name": "dns.js",
+  "version": "0.0.0",
+  "description": "Plain javascript DNS protocol client (minimal)",
+  "main": "lib/dns.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:indutny/dns.js"
+  },
+  "keywords": [
+    "dns",
+    "dns.js",
+    "plain",
+    "js"
+  ],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indutny/dns.js/issues"
+  },
+  "homepage": "https://github.com/indutny/dns.js",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  }
+}
