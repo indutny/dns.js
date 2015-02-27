@@ -1,6 +1,6 @@
 {
   "name": "dns.js",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Plain javascript DNS protocol client (minimal)",
   "main": "lib/dns.js",
   "scripts": {
